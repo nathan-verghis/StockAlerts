@@ -1,0 +1,6 @@
+wheel
+yfinance
+pandas
+json
+datetime
+sendgrid
